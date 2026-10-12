@@ -1,1 +1,5 @@
 .env
+Browser_Agent/profile.json
+resume.pdf
+*.pdf
+
